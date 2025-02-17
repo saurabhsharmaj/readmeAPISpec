@@ -3,7 +3,7 @@ info:
   title: Swagger Petstore - OpenAPI 3.0
   description: >-
     This is a sample Pet Store Server based on the OpenAPI 3.0 specification. 
-    You can find out more about
+    You can find out more about test
 
     Swagger at [https://swagger.io](https://swagger.io). In the third iteration
     of the pet store, we've switched to the design first approach!
@@ -40,7 +40,7 @@ externalDocs:
   description: Find out more about Swagger
   url: http://swagger.io
 servers:
-  - url: https://petstore3.swagger.io/api/v3
+  - url: https://petstore3.swagger.io/api/v4
 tags:
   - name: pet
     description: Everything about your Pets
