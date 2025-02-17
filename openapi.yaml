@@ -42,20 +42,20 @@ externalDocs:
 servers:
   - url: https://petstore3.swagger.io/api/v4
 tags:
-  - name: pet
+  - name: pet1
     description: Everything about your Pets
     externalDocs:
       description: Find out more
       url: http://swagger.io
-  - name: store
+  - name: store1
     description: Access to Petstore orders
     externalDocs:
       description: Find out more about our store
       url: http://swagger.io
-  - name: user
+  - name: user1
     description: Operations about user
 paths:
-  /pet:
+  /pet1:
     put:
       tags:
         - pet
